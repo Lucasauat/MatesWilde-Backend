@@ -1,0 +1,93 @@
+[
+  {
+    "id": 1,
+    "title": "Mate Camionero",
+    "description": "Mate estilo camionero de gran capacidad, ideal para quienes disfrutan de cebadas largas. Fabricado con calabaza forrada en cuero, con virola de aluminio decorada. Cómodo, resistente y con excelente terminación artesanal.",
+    "code": "MC-001",
+    "price": 1000,
+    "status": true,
+    "stock": 7,
+    "category": "ofertas",
+    "thumbnails": [
+      "https://i.postimg.cc/DzqBbxRL/mate-imperial-r.jpg"
+    ]
+  },
+  {
+    "id": 2,
+    "title": "Mate Torpedo",
+    "description": "Mate torpedo tradicional, de calabaza forrada en cuero con base y virola de aluminio. Su forma robusta y redondeada brinda una excelente estabilidad y una experiencia de cebado cómoda y duradera. Artesanal y de gran estilo.",
+    "code": "MT-002",
+    "price": 1500,
+    "status": true,
+    "stock": 10,
+    "category": "mas vendidos",
+    "thumbnails": [
+      "https://i.postimg.cc/d1wnR8KX/mate-torpedo.jpg"
+    ]
+  },
+  {
+    "id": 3,
+    "title": "Yerba Canarias",
+    "description": "Yerba Mate Canarias 1kg. De origen brasilero, reconocida por su sabor intenso y duradero...",
+    "code": "YC-003",
+    "price": 15000,
+    "status": true,
+    "stock": 100,
+    "category": "nuevos",
+    "thumbnails": [
+      "https://i.postimg.cc/Hxzz6VYL/canarias.jpg"
+    ]
+  },
+  {
+    "id": 4,
+    "title": "Bombilla de Acero con Resorte",
+    "description": "Bombilla de acero inoxidable con resorte: práctica y resistente, incluye un sistema de resorte desmontable en la base que facilita la limpieza...",
+    "code": "BR-004",
+    "price": 7500,
+    "status": true,
+    "stock": 10,
+    "category": "nuevos",
+    "thumbnails": [
+      "https://i.postimg.cc/cLYTScmG/Bombilla-de-acero-con-resorte-2.jpg"
+    ]
+  },
+  {
+    "id": 5,
+    "title": "Mate de cuero Marron Cincelado",
+    "description": "Mate de cuero marrón cincelado: artesanal y resistente, recubierto en cuero trabajado a mano con detalles cincelados...",
+    "code": "MM-005",
+    "price": 22000,
+    "status": true,
+    "stock": 10,
+    "category": "nuevos",
+    "thumbnails": [
+      "https://i.postimg.cc/s2fJFCHb/Whats-App-Image-2025-06-10-at-19-02-51.jpg"
+    ]
+  },
+  {
+    "id": 6,
+    "title": "Bombilla de Alpaca",
+    "description": "Bombilla de alpaca elegante y duradera, fabricada en aleación de cobre, níquel y zinc. No se oxida...",
+    "code": "BA-006",
+    "price": 9500,
+    "status": true,
+    "stock": 18,
+    "category": "mas vendidos",
+    "thumbnails": [
+      "https://i.postimg.cc/QdVSy3BC/bombilla-de-alpaca.png"
+    ]
+  },
+  {
+    "id": 7,
+    "title": "Combo de Yerba",
+    "description": "Llevate dos clásicos del mate en un solo pack. Yerba Baldo, suave y equilibrada, combinada con Canarias...",
+    "code": "CY-007",
+    "price": 649.99,
+    "status": true,
+    "stock": 5,
+    "category": "ofertas",
+    "thumbnails": [
+      "https://i.postimg.cc/9FC0Yd8F/Chat-GPT-Image-2-sept-2025-02-03-04-p-m-1.png"
+    ]
+  }
+]
