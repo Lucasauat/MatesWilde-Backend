@@ -1,18 +1,5 @@
 [
   {
-    "id": 1,
-    "title": "Mate Camionero",
-    "description": "Mate estilo camionero de gran capacidad, ideal para quienes disfrutan de cebadas largas. Fabricado con calabaza forrada en cuero, con virola de aluminio decorada. Cómodo, resistente y con excelente terminación artesanal.",
-    "code": "MC-001",
-    "price": 1000,
-    "status": true,
-    "stock": 7,
-    "category": "ofertas",
-    "thumbnails": [
-      "https://i.postimg.cc/DzqBbxRL/mate-imperial-r.jpg"
-    ]
-  },
-  {
     "id": 2,
     "title": "Mate Torpedo",
     "description": "Mate torpedo tradicional, de calabaza forrada en cuero con base y virola de aluminio. Su forma robusta y redondeada brinda una excelente estabilidad y una experiencia de cebado cómoda y duradera. Artesanal y de gran estilo.",
