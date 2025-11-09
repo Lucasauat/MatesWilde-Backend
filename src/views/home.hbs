@@ -1,8 +1,26 @@
-<h1>Lista de productos</h1>
+<h2>Listado de productos</h1>
+
 <ul>
   {{#each products}}
     <li>
-        {{this.name}} - ${{this.price}}
+      <h3>{{title}}</h2>
+      <p>{{description}}</p>
+      <strong>Precio:</strong> ${{price}} <br>
+      <em>Categoría:</em> {{category}}<br>
+      <small>Stock: {{stock}}</small>
+      <hr>
     </li>
   {{/each}}
 </ul>
+<br>
+<div style="margin-top: 20px;">
+  {{#if hasPrevPage}}
+    <a href="{{prevLink}}">Anterior</a>
+  {{/if}}
+
+  <span>Página {{currentPage}} de {{totalPages}}</span>
+
+  {{#if hasNextPage}}
+    <a href="{{nextLink}}">Siguiente</a>
+  {{/if}}
+</div>

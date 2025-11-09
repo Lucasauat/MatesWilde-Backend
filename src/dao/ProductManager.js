@@ -1,4 +1,5 @@
 const fs = require("fs");
+console.log("⚠️ Usando ProductManager (Filesystem)");
 
 class ProductManager {
   constructor(path) {

@@ -76,5 +76,38 @@
     "thumbnails": [
       "https://i.postimg.cc/9FC0Yd8F/Chat-GPT-Image-2-sept-2025-02-03-04-p-m-1.png"
     ]
+  },
+  {
+    "title": "lucas",
+    "price": 100000000,
+    "category": "facha",
+    "code": "COD-1761181230296",
+    "description": "Producto de demostración",
+    "status": true,
+    "stock": 5,
+    "thumbnails": [],
+    "id": 8
+  },
+  {
+    "title": "TANITA",
+    "price": 12,
+    "category": "facha",
+    "code": "COD-1761181240112",
+    "description": "Producto de demostración",
+    "status": true,
+    "stock": 5,
+    "thumbnails": [],
+    "id": 9
+  },
+  {
+    "title": "TANILU",
+    "price": 1222222,
+    "category": "facha",
+    "code": "COD-1761181249208",
+    "description": "Producto de demostración",
+    "status": true,
+    "stock": 5,
+    "thumbnails": [],
+    "id": 10
   }
 ]
